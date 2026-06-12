@@ -1,11 +1,12 @@
-```
-AUTOSCRIPT XRAY
 
+AUTOSCRIPT XRAY
+```
 ⚠️ System Requirements ⚠️
 - Minimum 1GB RAM
 - Debian10 above / Ubuntu20 above
 - Recommended Debian for fast installation.
 - Tested with VPS AWS, DigitalOcean, Vultr, GBcloud (Debian 11,12,13)
+```
 
 Setup:
 ```
