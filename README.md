@@ -3,14 +3,14 @@ AUTOSCRIPT XRAY
 ```
 ⚠️ System Requirements ⚠️
 - Minimum 1GB RAM
-- Debian10 above / Ubuntu20 above
+- Support Debian 11,12,13
+- Support Ubuntu 22,24,25
 - Recommended Debian for fast installation.
-- Tested with VPS AWS, DigitalOcean, Vultr, GBcloud (Debian 11,12,13)
 ```
 
 Setup:
 ```
-apt update -y && apt upgrade -y && apt dist-upgrade -y && apt install -y screen wget curl && wget https://raw.githubusercontent.com/install/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+apt update -y && apt upgrade -y && apt dist-upgrade -y && apt install -y screen wget curl && wget https://raw.githubusercontent.com/apih46/script2026/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
 
 MENU
