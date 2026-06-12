@@ -1,5 +1,5 @@
 
-AUTOSCRIPT XRAY
+**AUTOSCRIPT XRAY**
 ```
 ⚠️ System Requirements ⚠️
 - Minimum 1GB RAM
@@ -8,7 +8,7 @@ AUTOSCRIPT XRAY
 - Recommended Debian for fast installation.
 ```
 
-Setup:
+**Setup:**
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && apt install -y screen wget curl && wget https://raw.githubusercontent.com/apih46/script2026/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
