@@ -8,9 +8,10 @@
 - Recommended Debian for fast installation.
 ```
 
+
 **Setup:**
 ```
-apt update -y && apt full-upgrade -y && apt install -y screen wget curl && wget -qO install.sh https://raw.githubusercontent.com/apih46/script2026/main/install.sh && sed -i 's/\r$//' install.sh && chmod +x install.sh && ./install.sh
+apt update -y && apt full-upgrade -y && apt install -y screen wget curl && wget -qO install.sh https://raw.githubusercontent.com/apih46/script2026/main/install.sh && sed -i 's/\r$//' install.sh && chmod +x install.sh && ./install.sh yourdomain.my
 ```
 
 MENU
